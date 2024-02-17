@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "step": 1,
+    "image": "question-1",
+    "question": "Qual é o seu lema financeiro?",
+    "answers": [
+      {
+        "id": "1.1",
+        "text": "Viver o momento, sem muitas preocupações",
+        "value": 0
+      },
+      {
+        "id": "1.2",
+        "text": "Planejar para ter sucesso no futuro",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "step": 2,
+    "image": "question-2",
+    "question": "Como você encara as surpresas da vida?",
+    "answers": [
+      {
+        "id": "2.1",
+        "text": "Surpresas são essência da vida, vamos com tudo!",
+        "value": 0
+      },
+      {
+        "id": "2.2",
+        "text": "Calculo sempre os riscos para minimizar imprevistos",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "step": 3,
+    "image": "question-3",
+    "question": "O que você acha de esperar um pouquinho para conquistar algo grande?",
+    "answers": [
+      {
+        "id": "3.1",
+        "text": "Esperar não é comigo, quero tudo para ontem",
+        "value": 0
+      },
+      {
+        "id": "3.2",
+        "text": "A paciência é uma virtude, grandes coisas levam tempo",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "step": 4,
+    "image": "question-4",
+    "question": "Como você se sente sobre compromisos financeiros de longo prazo?",
+    "answers": [
+      {
+        "id": "4.1",
+        "text": "Compromisso? Só se for com a diversão!",
+        "value": 0
+      },
+      {
+        "id": "4.2",
+        "text": "Comprometimento é a base para construir um futuro sólido",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "step": 5,
+    "image": "question-5",
+    "question": "Sua filosofia é?",
+    "answers": [
+      {
+        "id": "5.1",
+        "text": "A vida é uma jornada, não um destino específico",
+        "value": 0
+      },
+      {
+        "id": "5.2",
+        "text": "Planejamento é a chave para transformar sonhos em realidade",
+        "value": 1
+      }
+    ]
+  }
+]
